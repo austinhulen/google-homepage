@@ -1,6 +1,25 @@
-div {
+.centered{
+    text-align: center;
     display: block;
     margin-left: auto;
-    width: 50%;
-    padding-top: 109px;
+    margin-right: auto;
+    width: 40%;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .nav-ll {
+    float: left;
+  }  
+  .nav-rl {
+      float: right;
+  }
+  a {
+      display: block;
+      padding: 8px;
+      color: grey;
+  }
