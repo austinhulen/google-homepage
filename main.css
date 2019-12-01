@@ -23,3 +23,9 @@ ul {
       padding: 8px;
       color: grey;
   }
+  .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+  }
