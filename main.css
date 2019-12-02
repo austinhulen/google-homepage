@@ -1,3 +1,11 @@
+#top{
+    position: relative;
+    top: 16px;
+}
+.nav{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
 .centered{
     text-align: center;
     display: block;
@@ -27,7 +35,8 @@ ul {
   a {
       display: block;
       padding: 8px;
-      color: grey;
+      color: rgba(0,0,0,.89);
+      text-decoration: none;
   }
   .footer {
       position: fixed;
