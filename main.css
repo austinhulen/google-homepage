@@ -38,15 +38,17 @@ ul {
   
   .nav-ll {
     float: left;
+    padding-left: 27px;
   }  
   .nav-rl {
       float: right;
+      padding-right: 27px;
   }
   a {
       display: block;
       padding: 8px;
       text-decoration: none;
-      color: rgba(0,0,0,.89);
+      color: rgb(95, 99, 104);
   }
   .footer {
       position: fixed;
@@ -56,6 +58,7 @@ ul {
       background-color:rgb(242,242,242);
       font-family: Arial, sans-serif;
       font-size: 13px;
+      padding: 5px;
   }
   a:hover {
       text-decoration: underline;
@@ -66,5 +69,8 @@ ul {
       border-color:#dfe1e5;
       border-width: 1px;
       border-radius: 50px;
+  }
+  .search-button{
+      margin: 16px 4px;
   }
   
