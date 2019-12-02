@@ -5,7 +5,7 @@
 .nav{
     font-family: Arial, sans-serif;
     font-size: 13px;
-    padding: 16px;
+    padding: 16px 6px 16px 6px;
 }
 #sign-in{
     display: block;
@@ -38,15 +38,15 @@ ul {
   
   .nav-ll {
     float: left;
-    padding-left: 27px;
+    padding-left: 18px;
   }  
   .nav-rl {
       float: right;
-      padding-right: 27px;
+      padding-right: 18px;
   }
   a {
       display: block;
-      padding: 8px;
+      padding: 6px 0px 0px 6px;
       text-decoration: none;
       color: rgb(95, 99, 104);
   }
@@ -59,6 +59,7 @@ ul {
       font-family: Arial, sans-serif;
       font-size: 13px;
       padding: 5px;
+      padding-bottom: 14px;
   }
   a:hover {
       text-decoration: underline;
